@@ -19,5 +19,5 @@ This project helps individuals with autism communicate using gesture-based input
 HTML, CSS, JavaScript
 
 ## Status
-Academic Project# autism-communication-ai
+Academic Project autism-communication-ai
 AI-based gesture communication system for autism support
