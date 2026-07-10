@@ -1,3 +1,5 @@
+[frontend.zip](https://github.com/user-attachments/files/29884217/frontend.zip)
+[backend.zip](https://github.com/user-attachments/files/29884214/backend.zip)
 # AI-Based Assistive Communication System
 
 ## Overview
